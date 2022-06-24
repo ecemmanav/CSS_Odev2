@@ -1,0 +1,48 @@
+.search{
+    width: 90%;
+    height: 65px;
+    background-color: #f0ecec;
+    text-align: center;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.box1{
+    width: 33.33%;
+    height: 70px;
+    background-color: #7ee5da;
+    text-align: center;
+    margin-left: 75px;
+    margin-right: 1px;
+    float: left;
+    padding-top: 7px;
+}
+
+.box2{
+    width: 18%;
+    height: 70px;
+    background-color: #70ccc2;
+    text-align: center;
+    float: left;
+    margin-right: 1px;
+    font-size: smaller;
+    padding-top: 7px;
+}
+
+.box3{
+    width: 38.55%;
+    height: 77px;
+    background-color: #62b3aa;
+    text-align: center;
+    float: left;
+    margin-right: 1px;
+    font-size: smaller;
+}
+
+.copy{
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 12.5px;
+    margin-top: 20px;
+}
